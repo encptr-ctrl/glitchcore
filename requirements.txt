@@ -1,0 +1,4 @@
+pillow
+numpy
+# scipy  # по желанию, ускоряет --tones
+# opencv-python  # по желанию, только для --bg grabcut
