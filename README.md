@@ -15,6 +15,7 @@
     <td><img src="IMG_20261107_124713_223.jpg" width="600"></td>
   </tr>
 </table>
+
 ## Установка
 
 ```bash
